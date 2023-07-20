@@ -1,5 +1,5 @@
 # Webhook Sender
-Webhook Sender by me (TERI#6116), give credits if you use it or give it.
+Webhook Sender by me (enigmify on Discord), no need to give credits.
 
 Screenshot:
 ![ss](https://cdn.discordapp.com/attachments/613066593177436160/823650616240242718/unknown.png)
